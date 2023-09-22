@@ -28,8 +28,6 @@ class _LoadingScreenState extends State<LoadingScreen> {
     return Scaffold(
       body: Center(
         child: Container(
-          width: double.infinity,
-          height: double.infinity,
           child: Image.asset(
             'assets/images/loading/loading.png',
             fit: BoxFit.cover,
