@@ -1,3 +1,4 @@
+import 'package:dooid_ivander/screens/home.dart';
 import 'package:dooid_ivander/screens/loading.dart';
 import 'package:flutter/material.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoadingScreen(),
+      home: HomeScreen(),
     );
   }
 }

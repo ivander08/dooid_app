@@ -66,6 +66,10 @@ flutter:
   - assets/images/onboarding/onboarding.png
   - assets/images/logo/logo.png
   - assets/images/register_login/register_login_background.png
+  - assets/images/home/nair_guy.jpeg
+  - assets/images/home/verified.png
+  - assets/images/home/bell.png
+  - assets/images/home/Card.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
